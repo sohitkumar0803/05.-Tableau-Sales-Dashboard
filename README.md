@@ -1,6 +1,6 @@
 ### Tableau Sales Dashboard
 
-**Dashboard Link:** https://public.tableau.com/views/SalesDashboard_17272396594300/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Dashboard Link](https://public.tableau.com/views/SalesDashboard_17272396594300/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Description:**
 Developed an interactive Tableau dashboard to analyze and visualize sales performance and customer engagement for the years 2021 and 2022. The dashboard includes:
